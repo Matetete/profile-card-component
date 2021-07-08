@@ -48,8 +48,7 @@ h3 {
     transform: translate(-50%, -50%);
 }
 
-.caja .imagen {
-    background: url(./IMAGES/BG-PAT~1.SVG);
+.caja .imagen img {
     width: 100%;
     height: 140px;
     border-radius: 10px 10px 0 0;
